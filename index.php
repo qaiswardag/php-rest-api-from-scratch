@@ -1,3 +1,8 @@
+<?php
+
+
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,7 +11,7 @@
 <body>
 <div class="container">
     <h1>This is a Heading</h1>
-    <p>This is a paragraph.</p>
+
 </div>
 </body>
 </html>
