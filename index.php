@@ -1,10 +1,15 @@
 <?php
+// warnings
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 
+//
 
 ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>Page Title</title>
 </head>
@@ -44,15 +49,4 @@
     }
 
 
-    .product-img {
-        width: 50px;
-    }
-
-    .product-img-view {
-        width: 120px;
-    }
-
-    .back {
-        background: black;
-    }
 </style>
