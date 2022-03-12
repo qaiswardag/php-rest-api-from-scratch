@@ -11,11 +11,11 @@ error_reporting(E_ALL);
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Page Title</title>
+    <title>PHP Rest api from scrach</title>
 </head>
 <body>
 <div class="container">
-    <h1>This is a Heading</h1>
+    <h1>PHP Rest api from scrach</h1>
 
 </div>
 </body>
