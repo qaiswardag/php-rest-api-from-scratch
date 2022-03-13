@@ -11,7 +11,7 @@ class Database
     private $port = 3306;
     private $db_name = "myblog";
     private $username = "qais";
-    private $password = "123458";
+    private $password = "123456";
     private $conn;
 
     // methods:
