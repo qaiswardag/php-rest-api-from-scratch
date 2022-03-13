@@ -1,4 +1,8 @@
 <?php
+// warnings
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 
 class Database
 {
@@ -7,7 +11,7 @@ class Database
     private $port = 3306;
     private $db_name = "myblog";
     private $username = "qais";
-    private $password = "123456";
+    private $password = "123458";
     private $conn;
 
     // methods:
